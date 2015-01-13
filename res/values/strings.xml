@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quick Notes</string>
+    <string name="save_button">Save</string>
+    <string name="library_button">View all notes</string>
+    <string name="title_activity_library">All Notes</string>
+    <string name="instructions">Instructions</string>
+    <string name="about">About</string>
+    <string name="instructions_title">Instructions</string>
+    <string name="instructions_message">Type your notes on the home screen, and save them to all notes. 
+        Press and hold entry in list to delete it.</string>
+    <string name="about_title">About</string>
+    <string name="about_message">Created by Bhavin Tandel and Kishan Panchal</string>
+    
+    
+    
+
+</resources>
